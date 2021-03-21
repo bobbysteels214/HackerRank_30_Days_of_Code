@@ -30,7 +30,7 @@ int main()
   }
 
   // print vector in reverse
-  for (int i = arr.size() - 1; i >= 0; --i) {
+  for (int i = (int)arr.size() - 1; i >= 0; --i) {
     cout << arr[i];
     cout << " ";
   }
