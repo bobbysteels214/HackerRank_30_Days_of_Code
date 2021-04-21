@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day29", "Day29\Day29.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HashTablesRansomNote", "HashTablesRansomNote\HashTablesRansomNote.vcxproj", "{0FEE4A28-6D4E-40A6-9B46-207CDA3E3EF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountingValleys", "CountingValleys\CountingValleys.vcxproj", "{2F742D64-7438-4838-8469-F8EE4E34C0FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{0FEE4A28-6D4E-40A6-9B46-207CDA3E3EF1}.Release|x64.Build.0 = Release|x64
 		{0FEE4A28-6D4E-40A6-9B46-207CDA3E3EF1}.Release|x86.ActiveCfg = Release|Win32
 		{0FEE4A28-6D4E-40A6-9B46-207CDA3E3EF1}.Release|x86.Build.0 = Release|Win32
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Debug|x64.ActiveCfg = Debug|x64
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Debug|x64.Build.0 = Debug|x64
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Debug|x86.Build.0 = Debug|Win32
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Release|x64.ActiveCfg = Release|x64
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Release|x64.Build.0 = Release|x64
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Release|x86.ActiveCfg = Release|Win32
+		{2F742D64-7438-4838-8469-F8EE4E34C0FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
